@@ -1,4 +1,7 @@
 md GitHubRepoAssignment
 cd GitHubRepoAssignment
 echo. > readme.md
+git add readme.md
+git commit -m "first commit"
+git status
 
