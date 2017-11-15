@@ -1,0 +1,4 @@
+md GitHubRepoAssignment
+cd GitHubRepoAssignment
+echo. > readme.md
+
